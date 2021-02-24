@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Traversy Crash Course",
+      "day": "Feb 23 at 12:00PM",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Study Styled Components",
+      "day": "Feb 24 at 9:00AM",
+      "reminder": true
+    },
+    {
+      "text": "Kiss Candibae!",
+      "day": "Today errryday!!",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Career Coaching Onboarding",
+      "day": "02-25-21 1:15PM",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
