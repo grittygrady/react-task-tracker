@@ -1,18 +1,6 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Traversy Crash Course",
-      "day": "Feb 23 at 12:00PM",
-      "reminder": true
-    },
-    {
-      "id": 2,
-      "text": "Study Styled Components",
-      "day": "Feb 24 at 9:00AM",
-      "reminder": true
-    },
-    {
       "text": "Kiss Candibae!",
       "day": "Today errryday!!",
       "reminder": true,
@@ -23,6 +11,18 @@
       "day": "02-25-21 1:15PM",
       "reminder": true,
       "id": 4
+    },
+    {
+      "text": "Finish Traversy Crash Course",
+      "day": "Today 1PM",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "Dr phone Appt",
+      "day": "Today 2PM",
+      "reminder": true,
+      "id": 6
     }
   ]
 }

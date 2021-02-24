@@ -80,6 +80,9 @@ body {
 .tooltip .tooltiptext {
   font-size: 0.9rem;
   visibility: hidden;
+  transition: opacity;
+  transition-property: visibility;
+  transition-delay: 0.4s;
   width: 250px;
   background-color: black;
   color: #fff;
@@ -95,6 +98,9 @@ body {
 
 .tooltip:hover .tooltiptext {
   visibility: visible;
+  transition-property: visibility;
+  transition: ease-in-out;
+  transition-delay: 400ms;
 }
 
 .add-form {
